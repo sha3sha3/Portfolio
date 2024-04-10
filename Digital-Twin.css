@@ -63,7 +63,7 @@
 .u-section-4 .u-video-1 {
   width: 748px;
   height: 421px;
-  margin: 31px 171px 0 auto;
+  margin: 17px auto;
 }
 
 .u-section-4 .embed-responsive-1 {
@@ -73,13 +73,13 @@
 .u-section-4 .u-video-2 {
   width: 750px;
   height: 422px;
-  margin: 17px 169px 0 auto;
+  margin: 17px auto;
 }
 
 .u-section-4 .u-video-3 {
   width: 748px;
   height: 424px;
-  margin: 17px 171px 60px auto;
+  margin: 17px auto;
 }
 
 @media (max-width: 991px) {
@@ -152,7 +152,7 @@
 
 .u-section-5 .u-gallery-1 {
   height: 423px;
-  margin-top: 95px;
+  margin-top: 17px;
   margin-bottom: 60px;
   grid-gap: 17px 17px;
 }
@@ -225,7 +225,7 @@
 .u-section-6 .u-gallery-1 {
   height: 396px;
   width: 706px;
-  margin: 40px auto 60px;
+  margin: 17px auto;
 }
 
 .u-section-6 .u-carousel-indicators-1 {
